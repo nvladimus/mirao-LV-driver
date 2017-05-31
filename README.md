@@ -22,3 +22,5 @@ Most of the API functions (18) are ported and tested in LabView, except 6 functi
 DLL file version used: x86 (32-bit)
 
 Mirao 52e API version: 001.001.20131209.
+
+LabView version: 2016, 32 bit.
